@@ -10,16 +10,12 @@
 }
 
 body, html {
-    background-image: linear-gradient(to top,#9DC8EA, #CBC3AC );
+    background-color: #9DC8EA ;
     height: 100vh;
     width: 100vw;
 }
 
-main {
-    position: relative;
-    height: 100vh;
-    width: 100vw;
-}
+
 
 section#login {
     position: absolute;
